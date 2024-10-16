@@ -1,0 +1,38 @@
+.myform {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+    
+  }
+  
+  .mylabel {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .myinput {
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 20px !important;
+  }
+  
+  input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+.parent_form{
+    padding-top: 100px;
+}
+  h1{
+    width: 340px;
+    margin: 0 auto;
+  }
